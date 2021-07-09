@@ -78,7 +78,7 @@ rsa==4.7.2
 Send2Trash==1.5.0
 six==1.15.0
 smmap==4.0.0
-streamlit==0.81.0
+streamlit
 tensorboard==2.5.0
 tensorboard-data-server==0.6.0
 tensorboard-plugin-wit==1.8.0
