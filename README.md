@@ -25,7 +25,7 @@ The solution to this problem is by recognizing facial emotions.
 
 ## Dataset Information
 I have built a deep learning model which detects the real time emotions of students through a webcam so that teachers can understand if students are able to grasp the topic according to students' expressions or emotions and then deploy the model. The model is trained on the FER-2013 dataset .This dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions - angry, disgusted, fearful, happy, neutral, sad and surprised.
-Here is the dataset link:- https://www.kaggle.com/msambare/fer2013
+Here is the dataset link:- https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
 
 ## Dependencies
 # Python 3
