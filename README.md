@@ -73,7 +73,6 @@ We deploy the app in streamlit but it invite the new user and it take time so af
 ## Conclusion
 Finally we build the webapp and deployed which has training accuracy of 66% and test accuracy of 56% .
 
-If you see the how webapp works, then visit this link:-
 
 ## Some real life experience form project
 Understand the deep concept of project
